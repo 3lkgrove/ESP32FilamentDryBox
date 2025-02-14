@@ -1,7 +1,7 @@
 /*
-   ESP32_FilamentDryBox Controller	// Enter in Project Title
+   ESP32_FilamentDryBox	// Enter in Project Title
    Description:
-   ESP32 Filament Dry Box Controller utilizing an ESP32, a AHT20+BMP280 Temperature Humidity Air Pressure Module, and a PTC
+   ESP32 Filament Dry Box utilizing an ESP32, a AHT20+BMP280 Temperature Humidity Air Pressure Module, and a PTC
    Notes:
    Contact Info:
    email - anthony.sleck@gmail.com
